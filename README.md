@@ -5,7 +5,7 @@ This is tutorial for participate in the Art Bounty BadgerDAO GR10 Hackaton
 
 ## URL Video Tutorial:
 
-![https://www.youtube.com/watch?v=xAdmasZHRcA](https://www.youtube.com/watch?v=xAdmasZHRcA)
+[![https://www.youtube.com/watch?v=xAdmasZHRcA](https://img.youtube.com/vi/xAdmasZHRcA/0.jpg)](https://www.youtube.com/watch?v=xAdmasZHRcA)
 
 ### This video demostrates the following steps:
 
